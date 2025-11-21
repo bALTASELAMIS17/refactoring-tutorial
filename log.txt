@@ -1,2 +1,4 @@
+803488c finish Task 2.1
+8ccd0d3 Complete Task 1.2
 4b9aa36 Complete Task 1.1
 b053ed1 Initial commit
