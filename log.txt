@@ -1,3 +1,5 @@
+d18857d Merge pull request #1 from bALTASELAMIS17/task2
+f72dd7e finish Task 2.4
 385deab finish Task 2.3
 5b389a7 finish Task 2.2
 803488c finish Task 2.1
